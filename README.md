@@ -20,4 +20,5 @@ I also upload the .rar project file but just remember to add libraries!
 these are libraries that i used :
 
 edu.standford.nlp library
+
 opennlp library
